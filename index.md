@@ -27,4 +27,4 @@ And in case you'd like to know what I sort of look like:
 
 ![profile picture](./hello.jpg)
 
-This site is built using [Jekyll](https://jekyllrb.com/), hosted by [GitHub](https://github.com), and deployed using (GitHub Pages)(https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+This site is built using [Jekyll](https://jekyllrb.com/), hosted by [GitHub](https://github.com), and deployed using [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
