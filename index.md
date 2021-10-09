@@ -1,14 +1,10 @@
----
-title: chester-tan
----
-
 # Hello!
 
 Hi! I'm Chester. Welcome to my personal website \:\)
 
 I'm a researcher studying complex systems, and I'm interested in many things including complexity science, network science, physics, free and open source software, and much more! 
 
-I'm currently at the National University of Singapore working with [Cynthia Siew](https://csqsiew.netlify.app/) on studying Singapore-English (Singlish) through the lens of network science and psycholinguistics, inspired primarily by the [Small World of Words project](https://smallworldofwords.org/en/project/home).
+I'm currently a research assistant at the National University of Singapore working with [Cynthia Siew](https://csqsiew.netlify.app/) on studying Singapore-English (Singlish) through the lens of network science and psycholinguistics, inspired primarily by the [Small World of Words project](https://smallworldofwords.org/en/project/home).
 
 I was previously at Imperial College London where I did an MSci in \"Physics with Theoretical Physics\", and studied complex systems with some wonderful people at the [Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) including [Max Falkenberg](https://orcid.org/0000-0002-2986-2494) and [Tim Evans](http://netplexity.org/) and [Kim Christensen](https://www.imperial.ac.uk/people/k.christensen).
 
@@ -30,3 +26,5 @@ Thank you for visiting my website \:\) The following list lists all my other onl
 And in case you'd like to know what I sort of look like:
 
 ![profile picture](./hello.jpg)
+
+This site is built using [Jekyll](https://jekyllrb.com/), hosted by [GitHub](https://github.com), and deployed using (GitHub Pages)(https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
