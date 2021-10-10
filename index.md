@@ -1,3 +1,6 @@
+* ToC
+{:toc}
+
 # Hello!
 
 Hi! I'm Chester. Welcome to my personal website \:\)
@@ -9,6 +12,8 @@ I'm currently a research assistant at the National University of Singapore worki
 I was previously at Imperial College London where I did an MSci in \"Physics with Theoretical Physics\", and studied complex systems with some wonderful people at the [Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) including [Max Falkenberg](https://orcid.org/0000-0002-2986-2494) and [Tim Evans](http://netplexity.org/) and [Kim Christensen](https://www.imperial.ac.uk/people/k.christensen).
 
 Thank you for visiting my website \:\) The following list lists all my other online presences. If you'd like to chat about anything at all please feel free to contact me through your most preferred platform!
+
+# Find Me
 
 - Keyoxide: (OpenPGP Fingerprint) [795cd6a88dc6114f2c1ca652b73642971eafc5b7](https://keyoxide.org/795cd6a88dc6114f2c1ca652b73642971eafc5b7)
 - Keybase: [chester_tan](https://keybase.io/chester_tan)
@@ -23,8 +28,12 @@ Thank you for visiting my website \:\) The following list lists all my other onl
   - [\_chester\_tan](https://twitter.com/_chester_tan)
 - GitHub: [chester-tan](https://github.com/chester-tan)
 
+# A Photo
+
 And in case you'd like to know what I sort of look like:
 
 ![profile picture](./hello.jpg)
 
-This site is built using [Jekyll](https://jekyllrb.com/), hosted by [GitHub](https://github.com), and deployed using [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+# Source Code
+
+This site is built using [Jekyll](https://jekyllrb.com/), hosted by [GitHub](https://github.com), and deployed using [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). Find its source code [here](https://github.com/chester-tan/chester-tan.github.io).
