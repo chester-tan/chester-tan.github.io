@@ -1,3 +1,4 @@
+* [Blog](./blog)
 * ToC
 {:toc}
 
