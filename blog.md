@@ -14,4 +14,6 @@ Welcome to my blog! \:\:) Here you can find my blog posts organised by their tag
   </ul>
 {% endfor %}
 
+***
+
 Subscribe to my [atom feed](https://chester-tan.com/feed.xml) \:\)
