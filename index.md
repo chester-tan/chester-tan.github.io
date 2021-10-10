@@ -1,4 +1,3 @@
-* [Blog](./blog)
 * ToC
 {:toc}
 
@@ -29,6 +28,10 @@ Thank you for visiting my website \:\) The following list lists all my other onl
   * [chester\_tan\_](https://twitter.com/chester_tan_)
   * [\_chester\_tan](https://twitter.com/_chester_tan)
 * GitHub: [chester-tan](https://github.com/chester-tan)
+
+# My Blog
+
+If you'd like you can also visit [my blog](https://chester-tan.com/blog) and subscribe to its [atom feed](https://chester-tan.com/feed.xml) \:\)
 
 # A Photo
 
