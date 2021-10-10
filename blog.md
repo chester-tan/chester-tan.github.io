@@ -8,4 +8,4 @@
   {% endfor %}
 </ul>
 
-Subscribe to my [Atom Feed](https://chester-tan.com/feed.xml) \:\)
+Subscribe to my [atom feed](https://chester-tan.com/feed.xml) \:\)
