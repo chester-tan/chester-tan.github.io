@@ -1,7 +1,15 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+tags: FOSS
+excerpt_separator: <!--more-->
 ---
+
+Excerpt with multiple paragraphs
+
+Here's another paragraph in the excerpt.
+
+<!--more-->
 
 # Welcome
 
