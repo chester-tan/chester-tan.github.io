@@ -4,8 +4,3 @@ theme: jekyll-theme-hacker
 
 plugins:
     - jekyll-feed
-
-chester_tan:
-    name: Chester Tan
-    email: mail@chester-tan.com
-    web: https://chester-tan.com
