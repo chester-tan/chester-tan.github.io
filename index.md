@@ -15,11 +15,15 @@ Thank you for visiting my website \:\) The following list lists all my other onl
 
 # Find Me
 
-* Keyoxide: (OpenPGP Fingerprint) [795cd6a88dc6114f2c1ca652b73642971eafc5b7](https://keyoxide.org/795cd6a88dc6114f2c1ca652b73642971eafc5b7)
-* Keybase: [chester_tan](https://keybase.io/chester_tan)
-* Matrix: [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
-* [Jami](https://jami.net/): chester\_tan
-* Telegram: [chester_tan](https://t.me/chester_tan)
+* Identity Verification:
+  * [Keyoxide](https://keyoxide.org): ([OpenPGP](https://openpgp.org) Fingerprint) [795cd6a88dc6114f2c1ca652b73642971eafc5b7](https://keyoxide.org/795cd6a88dc6114f2c1ca652b73642971eafc5b7)
+  * [Keybase](https://keybase.io): [chester\_tan](https://keybase.io/chester_tan)
+* Instant Messaging:
+  * [XMPP](https://xmpp.org): [chester-tan@movim.edu](xmpp:chester-tan@movim.eu?omemo-sid-330775478=06b3d30763c4ae8f91de00c8087b6bc5deea448fa68c827eb5ecf28c841f132b)
+  * [Matrix](https://matrix.org): [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
+  * [Jami](https://jami.net/): chester\_tan
+  * [Keybase](https://keybase.io): [chester\_tan](https://keybase.io/chester_tan)
+  * Telegram: [chester_tan](https://t.me/chester_tan)
 * Email(s): 
   * Personal:
     * [mail@chester-tan.com](mailto:mail@chester-tan.com) \([ProtonMail](https://protonmail.com/) alias for [mailto:chester.tan13@protonmail.com]\)
@@ -28,11 +32,14 @@ Thank you for visiting my website \:\) The following list lists all my other onl
   * Institutional:
     * [chester.tan13@imperial.ac.uk](mailto:chester.tan13@imperial.ac.uk)
     * [chester-tan@nus.edu.sg](mailto:chester-tan@nus.edu.sg)
-* Mastodon: [@chester\_tan@mastodon.social](https://mastodon.social/@chester_tan)
-* Twitter(s): 
-  * [chester\_tan\_](https://twitter.com/chester_tan_)
-  * [\_chester\_tan](https://twitter.com/_chester_tan)
-* GitHub: [chester-tan](https://github.com/chester-tan)
+* Social Media:
+  * Mastodon: [@chester\_tan@mastodon.social](https://mastodon.social/@chester_tan)
+  * Twitter(s): 
+    * [chester\_tan\_](https://twitter.com/chester_tan_)
+    * [\_chester\_tan](https://twitter.com/_chester_tan)
+* Collaborative Software Development:
+  * GitHub: [chester-tan](https://github.com/chester-tan)
+  * [Keybase](https://keybase.io): [chester\_tan](https://keybase.io/chester_tan)
 
 # My Blog
 
