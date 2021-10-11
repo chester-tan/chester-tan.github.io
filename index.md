@@ -26,7 +26,7 @@ Thank you for visiting my website \:\) The following list lists all my other onl
   * Telegram: [chester_tan](https://t.me/chester_tan)
 * Email(s): 
   * Personal:
-    * [mail@chester-tan.com](mailto:mail@chester-tan.com) \([ProtonMail](https://protonmail.com/) alias for [mailto:chester.tan13@protonmail.com]\)
+    * [mail@chester-tan.com](mailto:mail@chester-tan.com) \([ProtonMail](https://protonmail.com/) alias for [chester.tan13@protonmail.com](mailto:chester.tan13@protonmail.com)\)
     * [chester.tan13@tutanota.com](mailto:chester.tan13@tutanota.com) \([Tutanota](https://tutanota.com/)\)
     * [chester.tan13@gmail.com](mailto:chester.tan13@gmail.com)
   * Institutional:
