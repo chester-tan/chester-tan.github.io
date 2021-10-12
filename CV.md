@@ -54,7 +54,7 @@ Parallel session presentation on work done for MSci project.
 
 ### \#\#\# [Dagstuhl Seminar 21352 - Higher Order Graph Models: From Theoretical Foundations to Machine Learning](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21352) 2021
 
-## \#\#\# Teaching Experience
+## \#\# Teaching Experience
 
 ### \#\#\# A-Star Tuition Centre, Jakarta
 **Teaching Assistant**
@@ -63,7 +63,7 @@ Parallel session presentation on work done for MSci project.
 
 Assisted teaching International Baccalaureate and iGCSE mathematics classes.
 
-## \#\#\# Employment History
+## \#\# Employment History
 
 ### \#\#\# Republic of Singapore Air Force
 **Tactical Control Officer, Lieutenant, Ground Based Air Defence**
