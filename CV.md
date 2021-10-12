@@ -1,11 +1,12 @@
 # \# Chester Tan
-- Email: [mail@chester-tan.com](mailto:mail@chester-tan.com)
-- Matrix: [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
-- XMPP/Jabber: [chester-tan@movim.eu](xmpp:chester-tan@movim.eu)
+
+* Email: [mail@chester-tan.com](mailto:mail@chester-tan.com)
+* Matrix: [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
+* XMPP/Jabber: [chester-tan@movim.eu](xmpp:chester-tan@movim.eu)
 
 Theoretical physics MSci graduate from Imperial College London with key research interests in complex systems and network science.
 
-## \#\# EDUCATION
+## \#\# Education
 
 ### \#\#\# [Master in Science (MSci) Physics with Theoretical Physics from Imperial College London](https://www.imperial.ac.uk/study/ug/courses/physics-department/theoretical-physics-msci/)
 
@@ -13,7 +14,7 @@ Theoretical physics MSci graduate from Imperial College London with key research
 
 A 4-year integrated undergraduate\+master’s physics programme with a focus on theoretical physics.
 
-## \#\# RESEARCH EXPERIENCE
+## \#\# Research Experience
 
 ### \#\#\# [Summer Research Project](http://www.imperial.ac.uk/urop/): Percolation in Atrial Fibrillation Models
 
@@ -51,7 +52,7 @@ Parallel session presentation on work done for MSci project.
 
 ### \#\#\# [Network Science Society (NetSci)](https://netscisociety.net/home) Conference 2021
 
-Participant.
+### \#\#\# [Dagstuhl Seminar 21352 - Higher Order Graph Models: From Theoretical Foundations to Machine Learning](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21352) 2021
 
 ## \#\#\# Teaching Experience
 
