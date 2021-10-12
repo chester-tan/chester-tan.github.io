@@ -45,6 +45,10 @@ Thank you for visiting my website \:\) The following list lists all my other onl
 
 If you'd like you can also visit [my blog](https://chester-tan.com/blog) and subscribe to its [atom feed](https://chester-tan.com/feed.xml) \:\)
 
+# My CV
+
+You can also find [my CV here](https://chester-tan.com/CV).
+
 # A Photo
 
 And in case you'd like to know what I sort of look like:
