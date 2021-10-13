@@ -34,7 +34,7 @@ Supervised by Tim S. Evans. Developed a novel graph model for the popular Gilber
 
 With Max Falkenberg. Studying how hidden networks affect the temporal evolution of observed networks, and developing a framework to extract hidden networks from observed data, with many potential transdisciplinary applications, including, but not limited to, the analysis of social networks. Involves analytical and numerical studies \(and development\) of many popular network growth models and novel growth models. Research conducted as an academic visitor at the [Centre for Complexity Science, Imperial College London](https://www.imperial.ac.uk/complexity-science).
 
-### \#\#\# [The Small World of Singlish Words](https://singlishwords@nus.edu.sg)
+### \#\#\# [The Small World of Singlish Words](https://singlishwords.nus.edu.sg)
 
 *May 2020 – Present*
 
@@ -84,4 +84,4 @@ Developing automated data analysis and reporting applications in T-SQL and Java.
 
 *July 2021 – Present*
 
-[The Small World of Singlish Words research project](https://singlishwords@nus.edu.sg).
+[The Small World of Singlish Words research project](https://singlishwords.nus.edu.sg).
