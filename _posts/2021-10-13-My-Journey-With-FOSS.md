@@ -1,5 +1,5 @@
 ---
-title:  "My Journey with FOSS (Thus Far)
+title:  "My Journey with FOSS (Thus Far)"
 tags: FOSS
 author: Chester Tan
 layout: post

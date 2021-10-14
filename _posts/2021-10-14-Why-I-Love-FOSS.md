@@ -1,5 +1,5 @@
 ---
-title:  "Why I Love FOSS
+title:  "Why I Love FOSS"
 tags: FOSS Transparency Reproducibility
 author: Chester Tan
 layout: post
