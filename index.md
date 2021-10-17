@@ -39,6 +39,7 @@ Thank you for visiting my website \:\) The following list lists all my other onl
     * [\_chester\_tan](https://twitter.com/_chester_tan)
 * Collaborative Software Development:
   * GitHub: [chester-tan](https://github.com/chester-tan)
+  * GitLab: [chester-tan](https://gitlab.com/chester-tan)
   * [Keybase](https://keybase.io): [chester\_tan](https://keybase.io/chester_tan)
 
 # My Blog
