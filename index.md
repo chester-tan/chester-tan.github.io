@@ -48,7 +48,7 @@ If you'd like you can also visit [my blog](https://chester-tan.com/blog) and sub
 
 # CV
 
-Where I try to sound more impressive than I actually am: [my CV here](https://chester-tan.com/CV).
+Where I try to sound more impressive than I actually am: [my CV](https://chester-tan.com/CV).
 
 # A Photo
 
