@@ -9,6 +9,8 @@ I'm a researcher studying complex systems, and I'm interested in many things inc
 
 I'm currently a research assistant at the National University of Singapore working with [Cynthia Siew](https://csqsiew.netlify.app/) on studying Singapore-English (Singlish) through the lens of network science and psycholinguistics, inspired primarily by the [Small World of Words project](https://smallworldofwords.org/en/project/home).
 
+I'm currently a PhD student with [Ingo Scholtes](https://www.ingoscholtes.net/) at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/) at Julius-Maximilians-Universität Würzburg.
+
 I was previously at Imperial College London where I did an MSci in \"Physics with Theoretical Physics\", and studied complex systems with some wonderful people at the [Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) including [Max Falkenberg](https://orcid.org/0000-0002-2986-2494) and [Tim Evans](http://netplexity.org/) and [Kim Christensen](https://www.imperial.ac.uk/people/k.christensen).
 
 Thank you for visiting my website \:\) The following list lists all my other online presences. If you'd like to chat about anything at all please feel free to contact me through your most preferred platform!
@@ -19,11 +21,10 @@ Thank you for visiting my website \:\) The following list lists all my other onl
   * [Keyoxide](https://keyoxide.org): ([OpenPGP](https://openpgp.org) Fingerprint) [795cd6a88dc6114f2c1ca652b73642971eafc5b7](https://keyoxide.org/795cd6a88dc6114f2c1ca652b73642971eafc5b7)
   * [Keybase](https://keybase.io): [chester\_tan](https://keybase.io/chester_tan)
 * Instant Messaging:
-  * [XMPP](https://xmpp.org): [chester-tan@movim.edu](xmpp:chester-tan@movim.eu?omemo-sid-330775478=06b3d30763c4ae8f91de00c8087b6bc5deea448fa68c827eb5ecf28c841f132b)
   * [Matrix](https://matrix.org): [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
   * [Jami](https://jami.net/): chester\_tan
   * [Keybase](https://keybase.io): [chester\_tan](https://keybase.io/chester_tan)
-  * Telegram: [chester_tan](https://t.me/chester_tan)
+  * Telegram: [chester\_tan](https://t.me/chester_tan)
 * Email(s): 
   * Personal:
     * [mail@chester-tan.com](mailto:mail@chester-tan.com) \([ProtonMail](https://protonmail.com/) alias for [chester.tan13@protonmail.com](mailto:chester.tan13@protonmail.com)\)
@@ -31,7 +32,7 @@ Thank you for visiting my website \:\) The following list lists all my other onl
     * [chester.tan13@gmail.com](mailto:chester.tan13@gmail.com)
   * Institutional:
     * [chester.tan13@imperial.ac.uk](mailto:chester.tan13@imperial.ac.uk)
-    * [chester-tan@nus.edu.sg](mailto:chester-tan@nus.edu.sg)
+    * [chester.tan@uni-wuerzburg.de](mailto:chester.tan@uni-wuerzburg.de)
 * Social Media:
   * Mastodon: [@chester\_tan@mastodon.social](https://mastodon.social/@chester_tan)
   * Twitter(s): 

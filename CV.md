@@ -2,7 +2,8 @@
 
 * Email: [mail@chester-tan.com](mailto:mail@chester-tan.com)
 * Matrix: [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
-* XMPP/Jabber: [chester-tan@movim.eu](xmpp:chester-tan@movim.eu)
+* Jami: chester\_tan
+* Telegram: [chester\_tan](https://t.me/chester_tan)
 
 Theoretical physics MSci graduate from Imperial College London with key research interests in complex systems and network science.
 
@@ -36,7 +37,7 @@ With Max Falkenberg. Studying how hidden networks affect the temporal evolution 
 
 ## \#\# [The Small World of Singlish Words](https://singlishwords.nus.edu.sg)
 
-*May 2020 – Present*
+*July 2021 – December 2021*
 
 With Cynthia S. Q. Siew and Jazton Chern. A Singapore-English \(Singlish\) spin on the [Small World of Words project](https://smallworldofwords.org/en/project/home) – to collect and study free assiociation data for Singlish.
 
@@ -52,7 +53,7 @@ Parallel session presentation on work done for MSci project.
 
 ## \#\# [Network Science Society (NetSci)](https://netscisociety.net/home) Conference 2021
 
-## \#\# [Dagstuhl Seminar 21352 - Higher Order Graph Models: From Theoretical Foundations to Machine Learning](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21352) 2021
+## \#\# [Dagstuhl Seminar 21352 - Higher Order Graph Models: From Theoretical Foundations to Machine Learning](https://drops.dagstuhl.de/opus/volltexte/2021/15592/) 2021
 
 # \# Teaching Experience
 
@@ -82,6 +83,13 @@ Developing automated data analysis and reporting applications in T-SQL and Java.
 ## \#\# National University of Singapore
 **Research Assistant, Department of Psychology**
 
-*July 2021 – Present*
+*July 2021 – December 2021*
 
 [The Small World of Singlish Words research project](https://singlishwords.nus.edu.sg).
+
+## \#\# Julius-Maximilians-Universität Würzburg
+**PhD Student, Chair of Machine Learning for Complex Networks**
+
+*January 2022 – Present*
+
+PhD student at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/).
