@@ -1,11 +1,15 @@
 # Chester Tan's CV
 
-* Email: [mail@chester-tan.com](mailto:mail@chester-tan.com)
+* Email(s): 
+  * [mail@chester-tan.com](mailto:mail@chester-tan.com)
+  * [chester.tan@uni-wuerzburg.de](mailto:chester.tan@uni-wuerzburg.de)
+  * [chester.tan13@imperial.ac.uk](mailto:chester.tan13@imperial.ac.uk)
 * Matrix: [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
 * Jami: chester\_tan
+* Keybase: [chester\_tan](https://keybase.io/chester_tan)
 * Telegram: [chester\_tan](https://t.me/chester_tan)
 
-Theoretical physics MSci graduate from Imperial College London with key research interests in complex systems and network science.
+Theoretical physics MSci graduate from Imperial College London with key research interests in artificial intelligence, complex systems and network science.
 
 # \# Education
 
@@ -55,6 +59,8 @@ Parallel session presentation on work done for MSci project.
 
 ## \#\# [Dagstuhl Seminar 21352 - Higher Order Graph Models: From Theoretical Foundations to Machine Learning](https://drops.dagstuhl.de/opus/volltexte/2021/15592/) 2021
 
+## \#\# [The ACM Web Conference 2022](https://www2022.thewebconf.org/)
+
 # \# Teaching Experience
 
 ## \#\# A-Star Tuition Centre, Jakarta
@@ -88,8 +94,8 @@ Developing automated data analysis and reporting applications in T-SQL and Java.
 [The Small World of Singlish Words research project](https://singlishwords.nus.edu.sg).
 
 ## \#\# Julius-Maximilians-Universität Würzburg
-**PhD Student, Chair of Machine Learning for Complex Networks**
+**PhD Student with the Chair of Machine Learning for Complex Networks**
 
 *January 2022 – Present*
 
-PhD student at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/).
+PhD student at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/).
