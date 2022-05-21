@@ -4,7 +4,7 @@
   * [mail@chester-tan.com](mailto:mail@chester-tan.com)
   * [chester.tan@uni-wuerzburg.de](mailto:chester.tan@uni-wuerzburg.de)
   * [chester.tan13@imperial.ac.uk](mailto:chester.tan13@imperial.ac.uk)
-* Matrix: [@chester-tan:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
+* Matrix: [\@chester-tan\:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
 * Jami: chester\_tan
 * Keybase: [chester\_tan](https://keybase.io/chester_tan)
 * Telegram: [chester\_tan](https://t.me/chester_tan)
