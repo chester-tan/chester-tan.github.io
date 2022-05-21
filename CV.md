@@ -9,7 +9,7 @@
 * Keybase: [chester\_tan](https://keybase.io/chester_tan)
 * Telegram: [chester\_tan](https://t.me/chester_tan)
 
-Theoretical physics MSci graduate from Imperial College London with key research interests in artificial intelligence, complex systems and network science.
+Theoretical physics MSci graduate from Imperial College London with key research interests in artificial intelligence, complex systems, and network science.
 
 # \# Education
 
