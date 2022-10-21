@@ -7,9 +7,8 @@
 * Matrix: [\@chester-tan\:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
 * Jami: chester\_tan
 * Keybase: [chester\_tan](https://keybase.io/chester_tan)
-* Telegram: [chester\_tan](https://t.me/chester_tan)
 
-Theoretical physics MSci graduate from Imperial College London with key research interests in artificial intelligence, complex systems, and network science.
+Theoretical physics MSci graduate from Imperial College London with key research interests in network science, complex systems, machine learning, and intelligence.
 
 # \# Education
 
@@ -45,21 +44,24 @@ With Max Falkenberg. Studying how hidden networks affect the temporal evolution 
 
 With Cynthia S. Q. Siew and Jazton Chern. A Singapore-English \(Singlish\) spin on the [Small World of Words project](https://smallworldofwords.org/en/project/home) – to collect and study free assiociation data for Singlish.
 
+## \#\# Higher-Order Dynamics and Topology
+
+*Jan 2022 – Present*
+
+Preliminary investigations of PhD projects with the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/).
+
 # \# Conferences and Seminars
 
-## \#\# [Conference on Complex Systems \(CCS\)](https://cssociety.org/ccs) 2019
+* [Network Science Society (NetSci)](https://netscisociety.net/home) Conference 2020, 2021, 2022
+  * Parallel session presentation at NetSci 2020 on work done for MSci project.
+* [Conference on Complex Systems \(CCS\)](https://cssociety.org/ccs) 2019
+* [The ACM Web Conference 2022](https://www2022.thewebconf.org/)
+* [International Conference on Machine Learning (ICML)](https://icml.cc/) 2022
+* [International Conference on Learning Representations (ICLR)](https://iclr.cc/) 2022
+* [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/) 2022
 
-Attended with other members of the [Centre for Complexity Science, Imperial College London](https://www.imperial.ac.uk/complexity-science).
-
-## \#\# [Network Science Society (NetSci)](https://netscisociety.net/home) Conference 2020
-
-Parallel session presentation on work done for MSci project.
-
-## \#\# [Network Science Society (NetSci)](https://netscisociety.net/home) Conference 2021
-
-## \#\# [Dagstuhl Seminar 21352 - Higher Order Graph Models: From Theoretical Foundations to Machine Learning](https://drops.dagstuhl.de/opus/volltexte/2021/15592/) 2021
-
-## \#\# [The ACM Web Conference 2022](https://www2022.thewebconf.org/)
+# \# Seminars
+* [Dagstuhl Seminar 21352 - Higher Order Graph Models: From Theoretical Foundations to Machine Learning](https://drops.dagstuhl.de/opus/volltexte/2021/15592/) 2021
 
 # \# Teaching Experience
 
@@ -69,6 +71,13 @@ Parallel session presentation on work done for MSci project.
 *July 2020 – August 2020*
 
 Assisted teaching International Baccalaureate and iGCSE mathematics classes.
+
+## \#\# Julius-Maximilians-Universität Würzburg
+**Teaching Assistant**
+
+*January 2020 – Present*
+
+Assisted the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/) in teaching, including preparation and construction of lecture material and exercise sheets, running exercise sessions, and marking of exercise sheets and various examinations. 
 
 # \# Employment History
 
