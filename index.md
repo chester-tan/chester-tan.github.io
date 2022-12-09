@@ -32,7 +32,7 @@ Thank you for visiting my website \:\) The following list lists all my other onl
     * [chester.tan@uni-wuerzburg.de](mailto:chester.tan@uni-wuerzburg.de)
     * [chester.tan13@imperial.ac.uk](mailto:chester.tan13@imperial.ac.uk)
 * Social Media:
-  * [Mastodon](https://joinmastodon.org/): [@chester\_tan@mastodon.social](https://mastodon.social/@chester_tan)
+  * [Mastodon](https://joinmastodon.org/): [@chester\_tan@sigmoid.social](https://sigmoid.social/@chester_tan)
   * Twitter(s): 
     * [chester\_tan\_](https://twitter.com/chester_tan_)
     * [\_chester\_tan](https://twitter.com/_chester_tan)
