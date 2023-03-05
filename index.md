@@ -5,7 +5,7 @@
 
 Hi! I'm Chester. Welcome to my personal website \:\)
 
-I'm a PhD Student with [Ingo Scholtes](https://www.ingoscholtes.net/) at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/), currently focusing on temporal/dynamic graphs/networks and connecting graph machine learning / geometric deep learning with discrete spacetime approaches to quantum gravity. Some other research interests include long range sequence models, machine learning methods for particle physics, and collective intelligence, and I love trying to connect them all!
+I'm a PhD Student with [Ingo Scholtes](https://www.ingoscholtes.net/) at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/), currently focusing on temporal/dynamic graphs/networks and connecting graph machine learning / geometric deep learning with discrete spacetime approaches to quantum gravity. Some other research interests include (long-range) sequence models, machine learning methods for particle physics, and collective intelligence, and I love trying to connect them all!
 
 ![Spacetime Random Geometric Graph](./SRGG.jpg)
 
