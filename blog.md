@@ -1,6 +1,6 @@
 # Blog
 
-Welcome to my blog! \:\) Here you can find my blog posts organised by their tags:
+Welcome to my blog! \:\) Here you can find my blog posts organized by their tags:
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>

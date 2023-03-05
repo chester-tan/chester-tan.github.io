@@ -5,11 +5,13 @@
 
 Hi! I'm Chester. Welcome to my personal website \:\)
 
-I'm a PhD Student at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/), currently focusing on causality in (temporal / dynamic) graph embeddings / graph representation learning, while exploring "Machine Learning for Complex Networks" in all its possible permutations and meanings, including its relationships to quantum gravity, neural cellular automata, self-organizing maps, meta-learning, graph data structures and databases, differential privacy, and more. 
+I'm a PhD Student with [Ingo Scholtes](https://www.ingoscholtes.net/) at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/), currently focusing on temporal/dynamic graphs/networks and connecting graph machine learning / geometric deep learning with discrete spacetime approaches to quantum gravity. Some other research interests include long range sequence models, machine learning methods for particle physics, and collective intelligence, and I love trying to connect them all!
 
-I was previously at Imperial College London where I did an MSci in \"Physics with Theoretical Physics\", and studied complex systems and networks with some wonderful people at the [Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) including [Max Falkenberg](https://orcid.org/0000-0002-2986-2494) and [Tim Evans](http://netplexity.org/) and [Kim Christensen](https://www.imperial.ac.uk/people/k.christensen).
+![Spacetime Random Geometric Graph](./SRGG.jpg)
 
-I'm interested in many things including complexity science, network science, physics, free and open source software, and much more! 
+I was previously at Imperial College London where I did an MSci in \"Physics with Theoretical Physics\", and studied complexity science and network science with some wonderful people at the [Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science) including [Max Falkenberg](https://orcid.org/0000-0002-2986-2494) and [Tim Evans](http://netplexity.org/) and [Kim Christensen](https://www.imperial.ac.uk/people/k.christensen).
+
+I'm interested in many things including network science, complexity science, physics, machine learning, free and open source software, and much more!
 
 Thank you for visiting my website \:\) The following list lists all my other online presences. If you'd like to chat about anything at all please feel free to contact me through your most preferred platform!
 
@@ -55,8 +57,8 @@ Where I try to sound more impressive than I actually am: [my CV](https://chester
 
 And in case you'd like to know what I sort of look like:
 
-![profile picture](./hello.jpg)
+![Profile Picture](./hello.jpg)
 
 # Source Code
 
-This site is built using [Jekyll](https://jekyllrb.com/), hosted by [GitHub](https://github.com), and deployed using [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). Find its source code [here](https://github.com/chester-tan/chester-tan.github.io).
+This site is built using [Jekyll](https://jekyllrb.com/) with the Github Pages [Hacker](https://github.com/pages-themes/hacker) theme, hosted by [GitHub](https://github.com), and deployed using [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). Find its source code [here](https://github.com/chester-tan/chester-tan.github.io).
