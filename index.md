@@ -32,8 +32,8 @@ Thank you for visiting my website \:\) The following list lists all my other onl
     * [chester.tan13@gmail.com](mailto:chester.tan13@gmail.com)
   * Institutional:
     * [chester.tan@uni-wuerzburg.de](mailto:chester.tan@uni-wuerzburg.de)
-    * [chester.tan13@imperial.ac.uk](mailto:chester.tan13@imperial.ac.uk)
 * Social Media:
+  * [Bluesky](https://bsky.app/): [@chester-tan.bsky.social](https://bsky.app/profile/chester-tan.bsky.social)
   * [Mastodon](https://joinmastodon.org/): [@chester\_tan@sigmoid.social](https://sigmoid.social/@chester_tan)
   * Twitter(s): 
     * [chester\_tan\_](https://twitter.com/chester_tan_)
@@ -52,12 +52,6 @@ If you'd like you can also visit [my blog](https://chester-tan.com/blog) and sub
 # CV
 
 Where I try to sound more impressive than I actually am: [my CV](https://chester-tan.com/CV).
-
-# A Photo
-
-And in case you'd like to know what I sort of look like:
-
-![Profile Picture](./hello.jpg)
 
 # Source Code
 
