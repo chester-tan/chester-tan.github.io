@@ -4,7 +4,7 @@
   - [mail@chester-tan.com](mailto:mail@chester-tan.com)
   - [chester.tan13@gmail.com](mailto:chester.tan13@gmail.com)
   - [chester.tan@uni-wuerzburg.de](mailto:chester.tan@uni-wuerzburg.de)
-- Matrix: [\@chester-tan\:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
+- Matrix: [@chester-tan\:matrix.org](https://matrix.to/#/@chester-tan:matrix.org)
 - Keybase: [chester_tan](https://keybase.io/chester_tan)
 
 Theoretical physics MSci graduate from Imperial College London with key research interests in machine learning, network science, complex systems, and physics.
@@ -53,7 +53,7 @@ A 4-year integrated undergraduate\+master’s physics programme with a focus on 
 
 # \# Academic Publications
 
-- [The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f59562caae05e6aae0ffd1145bea5da-Abstract-Conference.html), Christopher Blöcker, Chester Tan, Ingo Scholtes. In _Advances in Neural Information Processing Systems 37 (NeurIPS)_, 2024.
+- [The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f59562caae05e6aae0ffd1145bea5da-Abstract-Conference.html) _by Christopher Blöcker, Chester Tan, and Ingo Scholtes, published in Advances in Neural Information Processing Systems (NeurIPS) 2024._
 
 # \# Academic Conferences and Seminars
 
@@ -74,7 +74,7 @@ A 4-year integrated undergraduate\+master’s physics programme with a focus on 
 
 _Jan 2022 – Present_
 
-Research projects at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/).
+Research projects with the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/).
 
 ## \#\# [The Small World of Singlish Words](https://singlishwords.nus.edu.sg)
 
