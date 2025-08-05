@@ -49,6 +49,10 @@ _Jan 2022 – Present_
 
 PhD projects with the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/).
 
+# \# Publications
+
+- [The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f59562caae05e6aae0ffd1145bea5da-Abstract-Conference.html), Christopher Blöcker, Chester Tan, Ingo Scholtes. In _Advances in Neural Information Processing Systems 37 (NeurIPS)_, 2024.
+
 # \# Conferences and Seminars
 
 - [Network Science Society (NetSci)](https://netscisociety.net/home) Conference 2020, 2021, 2022, 2023, and 2025
