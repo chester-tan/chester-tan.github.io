@@ -5,7 +5,7 @@
 
 Hi! I'm Chester. Welcome to my personal website \:\)
 
-I'm a research assistant with [Ingo Scholtes](https://www.ingoscholtes.net/) at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/), investigating the intersection of higher-order networks, temporal/dynamic graphs/networks, graph machine learning / geometric deep learning, and discrete spacetime approaches to quantum gravity.
+I'm currently an academic staff member (Wissenschaftlicher Mitarbeiter) researching and teaching with the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/), investigating the intersection of higher-order networks, temporal/dynamic graphs/networks, graph machine learning / geometric deep learning, and discrete spacetime approaches to quantum gravity.
 
 ![Spacetime Random Geometric Graph](./SRGG.jpg)
 

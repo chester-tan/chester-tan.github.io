@@ -53,7 +53,7 @@ A 4-year integrated undergraduate\+master’s physics programme with a focus on 
 
 # \# Academic Publications
 
-- [The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f59562caae05e6aae0ffd1145bea5da-Abstract-Conference.html) _by Christopher Blöcker, Chester Tan, and Ingo Scholtes, published in Advances in Neural Information Processing Systems (NeurIPS) 2024._
+- [The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f59562caae05e6aae0ffd1145bea5da-Abstract-Conference.html) _by Christopher Blöcker, Chester Tan, and Ingo Scholtes, published in Advances in Neural Information Processing Systems 37 (NeurIPS 2024)._
 
 # \# Academic Conferences and Seminars
 
