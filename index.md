@@ -1,5 +1,5 @@
-- ToC
-  {:toc}
+* ToC
+{:toc}
 
 # Hello!
 
