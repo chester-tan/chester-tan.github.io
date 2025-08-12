@@ -13,11 +13,11 @@ Theoretical physics MSci graduate from Imperial College London with key research
 
 ## \#\# Julius-Maximilians-Universität Würzburg
 
-**Research Assistant with the Chair of Machine Learning for Complex Networks**
+**PhD Student at the Chair of Machine Learning for Complex Networks**
 
 _January 2022 – Present_
 
-Research Assistant at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/).
+PhD student at the chair of [Machine Learning for Complex Networks](https://www.informatik.uni-wuerzburg.de/ml4nets/team/), [Center for Artificial Intelligence and Data Science (CAIDAS)](https://www.uni-wuerzburg.de/caidas/), [Julius-Maximilians-Universität Würzburg](https://www.uni-wuerzburg.de/).
 
 ## \#\# National University of Singapore
 
