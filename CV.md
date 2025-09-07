@@ -98,7 +98,7 @@ Supervised by Tim S. Evans. Developed a novel graph model for the popular Gilber
 
 _July 2019 – August 2019_
 
-Joint work with Girish S Vishwa supervised by Kim Christensen & Max Falkenberg. Studied bond and surface percolation in a cellular automata models of atrial fibrillation. Generated Monte Carlo percolation simulations and analysed their scaling, facilitating classification into known universality classes, thereby providing justification for a range of known analyses techniques in literature. An [Undergraduate Research Opportunities Programme \(UROP\)](http://www.imperial.ac.uk/urop/) with the [Centre for Complexity Science, Imperial College London](https://www.imperial.ac.uk/complexity-science).
+Joint work with Girish S Vishwa. Supervised by Kim Christensen & Max Falkenberg. Studied bond and surface percolation in a cellular automata models of atrial fibrillation. Generated Monte Carlo percolation simulations and analysed their scaling, facilitating classification into known universality classes, thereby providing justification for a range of known analyses techniques in literature. An [Undergraduate Research Opportunities Programme \(UROP\)](http://www.imperial.ac.uk/urop/) with the [Centre for Complexity Science, Imperial College London](https://www.imperial.ac.uk/complexity-science).
 
 # \# Teaching Experience
 
